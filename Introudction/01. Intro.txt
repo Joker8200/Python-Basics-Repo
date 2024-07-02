@@ -1,0 +1,36 @@
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
+It is used for:
+
+web development (server-side),
+software development,
+mathematics,
+system scripting.
+
+
+What Python Can Do
+Python serves various purposes:
+
+It can be employed on servers to develop web applications.
+It integrates with software for workflow automation.
+Python interfaces with database systems and manages file operations.
+It handles big data and facilitates complex mathematical computations.
+Python supports rapid prototyping and robust software development.
+
+
+Why Choose Python?
+
+Python offers versatility across platforms like Windows, Mac, Linux, and Raspberry Pi.
+Its straightforward syntax resembles natural language, promoting ease of use.
+Python enables concise programming with fewer lines compared to other languages.
+Operating on an interpreter system, Python allows immediate code execution for quick prototyping.
+Python supports procedural, object-oriented, and functional programming paradigms.
+
+
+Additional Information
+
+Python's latest major version is Python 3, which is the focus of this tutorial. Python 2, though no longer actively developed, remains in use primarily for security updates.
+Python code can be written in text editors or Integrated Development Environments (IDEs) such as Thonny, PyCharm, NetBeans, or Eclipse, which are beneficial for managing larger Python projects.
+Python emphasizes readability, drawing influence from both English and mathematical syntax.
+Unlike many programming languages that use semicolons or parentheses to conclude commands, Python utilizes new lines.
+Python uses indentation, or whitespace, to delineate scope (e.g., for loops, functions, and classes), whereas other languages commonly use curly braces for this purpose.
